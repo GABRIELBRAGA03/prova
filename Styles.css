@@ -1,0 +1,209 @@
+*{background: #717171;
+    
+}
+
+.Titulo{
+    text-align: center;
+}
+
+.Formulario{
+    
+    display: flex;
+    width: 256px;
+    height: 555px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+
+}
+input{
+    border-radius:  20px;;
+}
+.Campo{ 
+    width: 256px;
+    height: 24px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #D9D9D9;
+}
+
+.Nome{
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Sobre_Nome{
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Data_N{
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Sexo{
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inline{
+    display: flex;
+    align-items: center;
+        /* width: 102px;
+        height: 24.031px; */
+    
+    }
+
+.checkbox{
+    width: 22px;
+    height: 24px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #D9D9D9;
+    }
+
+.Masculino{
+    width: 19px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.Feminino{
+    width: 15px;
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.CPF{
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Email{
+    width: 95px;
+    height: 22px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Confirmar_Email{
+    width: 160px;
+    height: 25px;
+    flex-shrink: 0;   
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Telefone{
+    width: 104px;
+    height: 27px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.CEP{
+    color: #000;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.div_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Button{
+    width: 216px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #D9D9D9;
+    
+    
+}
+
+.logo_login{
+    text-align: center;
+    width: 393px;
+padding: 180px 0px 145px 0px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 228px;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.center_form{
+    display: flex;
+    justify-content: center;
+}
+
+.Home{
+    width: 100px;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #D9D9D9;
+
+}
+@media screen {
+    
+}
